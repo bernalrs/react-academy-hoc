@@ -1,1 +1,1 @@
-React Academy Amsterdam Traning.
+React Academy Amsterdam Exercise.
